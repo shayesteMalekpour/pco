@@ -93,5 +93,6 @@
   },
   "engines": {
     "node": "16.20.2"
-  }
+  },
+  "install": "npm install --force"
 }
